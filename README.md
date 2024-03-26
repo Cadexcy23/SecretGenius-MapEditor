@@ -46,7 +46,7 @@ The R button will reset the map to all the first tile(dirt) and clear all object
 The house will return you to the main menu.\
 ![image](https://github.com/Cadexcy23/SecretGenius-MapEditor/assets/51723869/a877ccfd-290d-4f1d-ad9e-4f74921888d1)
 
-### Transfering map
+## Transfering map
 The map slots are saved as map1-3.SGM. SecretGenius loads map1 so any edits to that map will be reflected when running it.
 SecretGenius and the map editor can be put into the same folder to make this easier.
 
