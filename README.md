@@ -48,5 +48,5 @@ The house will return you to the main menu.\
 
 ## Transfering map
 The map slots are saved as map1-3.SGM. SecretGenius loads map1 so any edits to that map will be reflected when running it.\
-SecretGenius and the map editor can be put into the same folder to make this easier.\
+SecretGenius and the map editor can be put into the same folder to make this easier.
 
